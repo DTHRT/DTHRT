@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Dmitriy
 - 👀 I’m interested in Web Development
-- 🌱 Currently learning Laravel, PHP and JS
+- 🌱 Currently learning JS
 - 📫 Say hello: dmitriy2002yoo@gmail.com
 - ✉️ Or say 'hi' in telegram: @dthrt
 
