@@ -29,7 +29,7 @@
 <p align="left">
   I'm always open to collaborating on exciting projects. If you have an interesting idea or just want to say hi, feel free to reach out to me!
   <br />
-  - 📧 Email: [dmitriy2002yoo@gmail.com](mailto:dmitriy2002yoo@gmail.com)
+  - 📧 Email: dmitriy2002yoo@gmail.com
 </p>
 
 <!-- Footer -->
