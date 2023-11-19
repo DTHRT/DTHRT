@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="left">Hello, I'm Dmitriy Yugay 👋</h1>
 <p align="left">
-  Software Engineer | Based in South Korea
+  Fullstack Engineer | Based in South Korea
 </p>
 
 <!-- Introduction -->
@@ -22,6 +22,8 @@
   <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="Node.js" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Node.js" width="50" height="50" />
 </p>
 
 <!-- Contact -->
