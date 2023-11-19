@@ -13,18 +13,15 @@
 <h2 align="left">Tech Stack</h2>
 <p align="left">
   
-  <img src="https://skillicons.dev/icons?i=html" alt="HMTL" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=sass" alt="SASS" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50" height="50" />
-  <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=nestjs" alt="Nestjs" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" width="50" height="50" />
 
 </p>
 
