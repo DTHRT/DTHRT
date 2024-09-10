@@ -26,7 +26,10 @@
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" />
   </p>
 
-<div style="display: flex; gap: 10px;">
+<div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dthrt" alt="dthrt" />
+</div>
+
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dthrt&show_icons=true&locale=en&layout=compact" alt="dthrt" />
 </div>
