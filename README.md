@@ -9,16 +9,16 @@
 </p>
 
 <!-- Tech Stack -->
-  <p>Frontend:</p>
+  <p>Proficient in:</p>
   <p align="left">
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.JS" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="50" height="50" />
   </p>
-  
-  <p>Backend:</p>
   <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=nestjs" alt="Nestjs" width="50" height="50" />
