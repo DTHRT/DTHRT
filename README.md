@@ -26,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" />
   </p>
 
-  Sometimes having fun with **Python3** and **Machine Learning** [@PromptTown](https://github.com/prompttown) projects
+  Sharing my experience on [yoodima.com](https://yoodima.com/blog)
 
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dthrt" alt="dthrt" />
