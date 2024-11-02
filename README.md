@@ -26,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" />
   </p>
 
-  Sharing my experience on [yoodima.com](https://yoodima.com/blog)
+  Sharing my experience on [yoodima.com](https://yoodima.com/)
 
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dthrt" alt="dthrt" />
