@@ -9,7 +9,7 @@
 </p>
 
 <!-- Tech Stack -->
-  <p>Things I'm most comfortable with:</p>
+  ##### Things I'm most comfortable with:
   <p align="left">
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" />
